@@ -43,7 +43,6 @@ namespace sbpfr_xml
             }
             else
             {
-
                 MessageBox.Show("err file");
             }
         }
